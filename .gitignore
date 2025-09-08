@@ -1,2 +1,12 @@
-/venv
-/.env
+# Python Virtual Environment
+venv/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Operating System files
+.DS_Store
+
+# Editor-specific files (e.g., Visual Studio Code)
+.vscode/
